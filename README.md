@@ -10,7 +10,7 @@
 * __Hráč proti hráčovi__
 * __Hráč proti umelej inteligencii__
 ### _Umelá inteligencia_
-* Každej poličke je priradená hodnota. Umelá inteligencia tieto hodnoty porovná a nájde najlepší možný ťah.
+* Každému štvorcu je priradená hodnota. Umelá inteligencia tieto hodnoty porovná a nájde najlepší možný ťah.
 ---
 ## Ovládanie
 Ťahy v hre je možné vykonávať kliknutím ľavým tlačidlom myši. Ak nie sú možné žiadne ťahy, môžete ich preskočiť pomocou modrého tlačidla SKIP.
