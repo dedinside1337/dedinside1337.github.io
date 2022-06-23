@@ -7,8 +7,11 @@
 * Hráč musí umiestniť figúrku tak, aby obkľúčil svojimi dvoma figúrkami súvislý rad súperových kameňov, a to v ľubovoľnom smere (vodorovne, zvisle alebo uhlopriečne). 
 ---
 ## Režimy hry
-* Hráč proti hráčovi
-* Hráč proti umelej inteligencii
-  * __Umelá inteligencia__
-  Každej poličke je priradená hodnota. Umelá inteligencia tieto hodnoty porovná a nájde najlepší možný ťah.
+* __Hráč proti hráčovi__
+* __Hráč proti umelej inteligencii__
+### _Umelá inteligencia_
+* Každej poličke je priradená hodnota. Umelá inteligencia tieto hodnoty porovná a nájde najlepší možný ťah.
+---
+## Ovládanie
+Ťahy v hre je možné vykonávať kliknutím ľavým tlačidlom myši. Ak nie sú možné žiadne ťahy, môžete ich preskočiť pomocou modrého tlačidla SKIP.
   
