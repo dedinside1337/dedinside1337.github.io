@@ -11,7 +11,7 @@
 ## Režimy hry
 * __Hráč proti hráčovi__
 * __Hráč proti umelej inteligencii__
-### _Umelá inteligencia_
+### Umelá inteligencia
     Každému štvorcu je priradená hodnota. Umelá inteligencia tieto hodnoty porovná a nájde najlepší možný ťah.
 
 ---
