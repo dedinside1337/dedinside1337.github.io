@@ -19,3 +19,8 @@
 ## Ovládanie
 Ťahy v hre je možné vykonávať kliknutím ľavým tlačidlom myši. Ak nie sú možné žiadne ťahy, môžete ich preskočiť pomocou modrého tlačidla SKIP.
   
+---
+
+## Koniec hry
+* Na konci hry sa spustí animácia ohňostroja.
+* Výsledky hry sa ukladajú do súboru result.txt, výsledky poslednej hry sa vypisujú do obdĺžnikovej oblasti vpravo.
