@@ -1,5 +1,5 @@
 # Python Reversi
-======================================
+
 ## Pravidlá
 * Základná verzia sa hrá na štvorcovej ploche 8x8 polí.
 * Cieľom hry Reversi je mať na hracej ploche viac figúrok ako súper. Hra končí, ak sú všetky štvorce obsadené figúrkami alebo žiadny z hráčov nemôže urobiť ťah.
